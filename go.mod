@@ -1,4 +1,4 @@
-module myMMM
+module github.com/Shubakov-O/final-main
 
 go 1.21.4
 
